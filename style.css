@@ -1,0 +1,15 @@
+body{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background:linear-gradient(pink);
+}
+
+.container{
+    background-color:white;
+    padding:15px;
+    border-radius:20px;
+    text-align:center;
+    border-color: black;
+
+}
